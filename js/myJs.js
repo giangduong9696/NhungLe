@@ -140,7 +140,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.google.com/search?q=%C3%A1o+%C4%91%C3%B4i+m%C3%B9a+%C4%91%C3%B4ng&tbm=isch&ved=2ahUKEwj47_LqlqT8AhUSJqYKHRvcBgoQ2-cCegQIABAA&oq=%C3%A1o+%C4%91%C3%B4i&gs_lcp=CgNpbWcQARgHMgQIIxAnMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgQIABBDMgUIABCABDIFCAAQgARQAFgAYM8qaABwAHgAgAGaAYgBmgGSAQMwLjGYAQCqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ElawY_ieIpLMmAWbuJtQ&bih=689&biw=1440";
+            window.location = "https://www.google.com/search?q=%C3%A1o+%C4%91%C3%B4i+m%C3%B9a+h%C3%A8&tbm=isch&ved=2ahUKEwi7oNGsobv-AhV4mVYBHU8iCJwQ2-cCegQIABAA&oq=%C3%A1o+%C4%91%C3%B4i+m%C3%B9a+h%C3%A8&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgcIABCKBRBDUPsFWIkZYM4maABwAHgAgAF7iAGJB5IBAzAuOJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=16dCZPvYL_iy2roPz8Sg4Ak&bih=689&biw=1440";
           },
         });
       }
