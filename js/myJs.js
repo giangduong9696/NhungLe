@@ -140,7 +140,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.google.com/search?q=%C3%A1o+%C4%91%C3%B4i+m%C3%B9a+h%C3%A8&tbm=isch&ved=2ahUKEwi7oNGsobv-AhV4mVYBHU8iCJwQ2-cCegQIABAA&oq=%C3%A1o+%C4%91%C3%B4i+m%C3%B9a+h%C3%A8&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgcIABCKBRBDUPsFWIkZYM4maABwAHgAgAF7iAGJB5IBAzAuOJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=16dCZPvYL_iy2roPz8Sg4Ak&bih=689&biw=1440";
+            window.location = "https://www.google.com.vn/search?q=%C3%A1o+%C4%91%C3%B4i+m%C3%B9a+h%C3%A8&hl=vi&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiDmYe3orv-AhVLb94KHa-mCBkQ_AUoAXoECAEQAw";
           },
         });
       }
